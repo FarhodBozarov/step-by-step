@@ -64,3 +64,4 @@ const start = () => {
   }, 1000);
 };
 start();
+console.log();
